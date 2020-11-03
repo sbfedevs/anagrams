@@ -12,7 +12,7 @@
 - Email that github link back to the email address you received this challenge from.
 
 **Definitions:**
-- Anagram: a word formed by rearranging the letters of another, such as cinema, formed from iceman.
+- Anagram: a word formed by rearranging the letters of another, such as 'cinema', formed from 'iceman'.
 
 **Functional Requirements:**
 - Use Node and express for the webserver.
@@ -36,7 +36,7 @@
 
 **Version 2:**
 - Does not modify the input and anagrams are case sensitive.
-
+  
 **Example of /v1/anagrams:**
 - Input: 
   - /v1/anagrams?words=ate,bar,loop,Pool,TEA,pet,BAR
