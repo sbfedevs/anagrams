@@ -8,7 +8,7 @@
 - The endpoint will return an array of arrays of anagrams, as explained below.
 
 **Submitting your solution:**
-- Create a github repro with the source code for the project.
+- Create a github repo with the source code for the project.
 - Email that github link back to the email address you received this challenge from.
 
 **Definitions:**
